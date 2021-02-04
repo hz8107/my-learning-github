@@ -22,7 +22,7 @@ Header1 | Header2
 Elem11 | Elem12
 Elem21 | Elem22
 
-> git status //see branch name
-> git add -A //-A means all
-> git commit -a -m "something" ??
-> git push origin master
+> git status //see branch name  
+> git add -A //-A means all  
+> git commit -a -m "something"  
+> git push origin master  
