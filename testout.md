@@ -7,6 +7,8 @@ hello
 **hello**  
 **you can *combine* them**  
 
+![insert picture](/image/201210b.gif)  
+
 * List 1  
 * List 2  
 	*List 2-1  
